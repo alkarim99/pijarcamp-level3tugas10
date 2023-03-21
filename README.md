@@ -1,3 +1,9 @@
+<img src="Screenshot (31).png" alt="Daftar Produk">
+<img src="Screenshot (32).png" alt="Tambah Produk">
+<img src="Screenshot (33).png" alt="Detail Produk">
+<img src="Screenshot (34).png" alt="Edit Produk">
+<img src="Screenshot (35).png" alt="Database">
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
